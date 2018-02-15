@@ -23,6 +23,7 @@
 #import "RLMRealmConfiguration+Sync.h"
 #import "RLMRealmConfiguration_Private.hpp"
 #import "RLMRealmUtil.hpp"
+#import "RLMRealm_Private.hpp"
 #import "RLMResults_Private.hpp"
 #import "RLMSyncManager_Private.h"
 #import "RLMSyncPermissionResults.h"
